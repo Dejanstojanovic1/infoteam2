@@ -1,0 +1,71 @@
+<footer>
+		<div class="footer-blurb">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 footer-blurb-item">
+						<img class="img-circle" src="bilder/herbst2.jpg" alt="" width="100" height="100">
+						<h3 style=color:white>Herbstgedicht</h3>
+						<p>Der Herbststurm braust durch Wald und Feld,
+                            die Blätter fallen nieder
+                            und von dem dunklen Himmelszelt
+                            sehn schwarz die Wolken nieder.
+                            
+                            Sankt Martin reitet dann sein Pferd
+                            so schnell die Wolken eilen;
+                            in seiner Rechten blitzt das Schwert,
+                            die Nebel zu zerteilen.
+                            
+                            Das Schwert, womit als Reitersmann
+                            den Mantel er zerschnitten,
+                            den er geschenkt dem armen Mann
+                            und weiter ist geritten.</p>
+						<p><a class="btn btn-default" href="#">nach oben</a></p>
+					</div>
+					<div class="col-sm-4 footer-blurb-item">
+						<img class="img-circle" src="bilder/winter2.jpg" alt="" width="100" height="100">
+						<h3 style=color:white>Der Winter</h3>
+						<p>Der erste Schnee, weich und dicht,
+                            Die ersten wirbelnden Flocken.
+                            Die Kinder drängen ihr Gesicht
+                            Ans Fenster und frohlocken.
+                            
+                            Da wird nun das letzte bisschen Grün
+                            
+                            Leise, leise begraben.
+                            Aber die jungen Wangen glühn,
+                            Sie wollen den Winter haben.
+                            
+                            Schlittenfahrt und Schellenklang
+                            Und Schneebälle um die Ohren!
+                            Kinderglück, wo bist du? Lang,
+                            Lang verschneit und erfroren.
+                            
+                            
+                            Fallen die Flocken weich und dicht,
+                            Stehen wir wohl erschrocken,
+                            Aber die Kleinen begreifen‘s nicht,
+                            Glänzen vor Glück und frohlocken.</p>
+						<p><a class="btn btn-default" href="#">nach oben</a></p>
+					</div>
+					<div class="col-sm-4 footer-blurb-item">
+						<img class="img-circle" src="bilder/frühling 2.jpg" alt="" width="100" height="100">
+						<h3 style=color:white>Der Frühling</h3>
+						<p>Die Sonne glänzt, es blühen die Gefilde,
+                            Die Tage kommen blütenreich und milde,
+                            Der Abend blüht hinzu, und helle Tage gehen
+                            Vom Himmel abwärts, wo die Tag‘ entstehen.</p>
+						<p><a class="btn btn-default" href="#">nach oben</a></p>
+					</div>
+
+				</div>
+				<!-- /.row -->	
+			</div>
+        </div>
+        
+        <div class="small-print">
+        	<div class="container">
+        		<p><a href="#">AGB</a> | <a href="#">Datenschutzerklärung</a> | <a href="#">Kontakt</a></p>
+        		<p>Copyright 2022 Ebanhesaten </p>
+        	</div>
+        </div>
+	</footer>
